@@ -25,10 +25,9 @@ knowledge_base/
 
 Why This Exists
 
-Support teams without documentation repeat the same work every day.
-This knowledge base eliminates that — every common issue is documented once,
-clearly, so any agent can resolve it independently without escalating.
-
+Support teams without proper documentation end up repeating the same tasks daily.
+This knowledge base removes that inefficiency by documenting common issues once, 
+enabling any agent to resolve them independently without escalation.
 
 
 How To Use
